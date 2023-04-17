@@ -1,7 +1,7 @@
 {
   "name": "projeto-01---api-(treino-novo)",
   "version": "1.0.0",
-  "description": "",
+  "description": "API desenvolvida no programa explorer da Rocketseat.",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
