@@ -1,5 +1,5 @@
 {
-  "name": "API de notas",
+  "name": "api",
   "version": "1.0.0",
   "description": "API desenvolvida no programa explorer da Rocketseat.",
   "main": "index.js",
